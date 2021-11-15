@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <name>Epos</name>
+    <books>
+        <book isbn="222222222222222">
+            <title>Odyssey</title>
+            <author>Homer</author>
+        </book>
+        <book isbn="333333333333333">
+            <title>Mahabharata</title>
+            <author>Vyasa</author>
+        </book>
+    </books>
+</library>

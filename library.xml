@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.  
+-->
+
+
+<library>
+    <name> Programming </name>
+    <books>
+        <book isbn="1234567899874">
+        <title> Java 8</title>
+        <author> Herbert Schildt</author>
+        </book>
+        
+        <book isbn="1234567899899">
+        <title> Curso de programacion</title>
+        <author> Scott McCracken</author>
+        </book>
+        
+        <book isbn="1234567899777">
+        <title> Самоучитель Java 2</title>
+        <author> Э.Хабибуллин</author>
+        </book>
+    </books>
+        
+    
+</library>
